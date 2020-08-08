@@ -21,4 +21,4 @@ console.log(s);
 const f =  s.filter(x => x < 2);
 const z = s.find(x => x > 6);
 console.log(f);
-console.log(z);
+console.log(z); 
